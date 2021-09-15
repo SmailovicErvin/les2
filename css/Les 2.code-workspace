@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\les1"
+		},
+		{
+			"path": "..\\..\\my-favorite-series"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-favorite-series"
+	}
+}
